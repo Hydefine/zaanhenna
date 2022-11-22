@@ -396,7 +396,7 @@ ul.multi-column-dropdown h6 {
 .btn-danger.my-cart-btn:focus {
     outline: none;
 }
-.snipcart-details input.button {
+.whatsapp {
     font-size: 14px;
     color: #fff;
     background: #3399cc;
@@ -408,6 +408,16 @@ ul.multi-column-dropdown h6 {
     text-transform: uppercase;
     padding: .5em 0;
     outline: none;
+    -webkit-transition: .4s ease-in;
+    
+}
+    
+
+.whatsapp:hover{
+    background: #60e601;
+    
+    
+
 }
 .agile_top_brand_left_grid:hover .snipcart-details input.button,.snipcart-details input.button:hover{
     background: #fe9126;
