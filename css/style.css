@@ -1338,7 +1338,7 @@ h3.w3ls-title.w3ls-title1 {
     padding-left: 0.5em;
 }
 .faq-w3agile .faq > li > a { 
-    color: #999; 
+    color: rgb(32, 29, 29); 
 } 
 .faq-w3agile .faq li li.subitem1 {
     display: block;
